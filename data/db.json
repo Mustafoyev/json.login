@@ -1,0 +1,62 @@
+{
+  "users": [
+    {
+      "email": "otabekmm@gmail.com",
+      "password": "$2a$10$DcMePYfogVfIpCdxo.1x.uNRyFb3ARa4unYdUirhob.oaBYxI.GRC",
+      "firstname": "Otabek",
+      "lastname": "Mustafoyev",
+      "id": 1
+    },
+    {
+      "email": "akmal1998@gmail.com",
+      "password": "$2a$10$nBh4lbBnuv1nEq1rinf9YeKS6yLTqFnZtx40jB1EwATeDbKMFrBgi",
+      "firstname": "Akmal",
+      "lastname": "Shomahmudov",
+      "id": 2
+    },
+    {
+      "email": "shokir1212@gmail.com",
+      "password": "$2a$10$colg5c0mpdVNJgF5T82ul.qRA0/DsMnBqfaBblmvSL6PY71yKE7fe",
+      "firstname": "Shokir",
+      "lastname": "Yuldashev",
+      "id": 3
+    },
+    {
+      "email": "toxa123123@gmail.com",
+      "password": "$2a$10$HYhr6Ga4ntv/0wp6iB.0xe2qj77R3R5wDoTHnqYQaPv8EU3iI3viW",
+      "firstname": "Toxir",
+      "lastname": "Akmalov",
+      "id": 4
+    },
+    {
+      "email": "mahmud1990@gmail.com",
+      "password": "$2a$10$K4yXzaMbT.I4VqeCBRER7eUvXxyrRhFOMgzs2TKjEFqGuKlau9RXi",
+      "firstname": "Mahmud",
+      "lastname": "Tursunov",
+      "id": 5
+    },
+    {
+      "email": "shox01031997@gmail.com",
+      "password": "$2a$10$Kh0RPH0x.oUX.4pfv1fip.GSMqEnKYlJcHtMd4oJtKDvQABbnx77e",
+      "firstname": "Shoxroh",
+      "lastname": "Boltayev",
+      "id": 6
+    }
+  ],
+  "posts": [
+    {
+      "userId": 6,
+      "title": "code yozish",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam iusto nisi quo, necessitatibus mollitia numquam odit dignissimos beatae nobis est facere nulla iure magnam sequi laboriosam similique asperiores consequatur? Qui.",
+      "data": "3.12.2022  14:54",
+      "id": 1
+    },
+    {
+      "userId": 6,
+      "title": "React",
+      "description": "react  react-router-dom ",
+      "data": "3.12.2022  15:12",
+      "id": 2
+    }
+  ]
+}
