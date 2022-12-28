@@ -41,6 +41,20 @@
       "firstname": "Shoxroh",
       "lastname": "Boltayev",
       "id": 6
+    },
+    {
+      "email": "otabek121212@gmail.com",
+      "password": "$2a$10$4YpvdQtPoYBAI8Gj/0hxe.c4xil.I3ioYUcam6bkNmY58izdzpT46",
+      "firstname": "OTABEK",
+      "lastname": "MUSTAFOYEV",
+      "id": 7
+    },
+    {
+      "email": "asilbek@gmail.com",
+      "password": "$2a$10$D9ooZ1DsGwQfMF0/1XJAO.v2bxgNNPDCssG6MRQK004jqlqQSejxe",
+      "firstname": "Asilbek",
+      "lastname": "Mustafoyev",
+      "id": 8
     }
   ],
   "posts": [
@@ -57,6 +71,48 @@
       "description": "react  react-router-dom ",
       "data": "3.12.2022  15:12",
       "id": 2
+    },
+    {
+      "userId": 1,
+      "title": "React hooks",
+      "description": "useState, useEffect, useRef",
+      "data": "3.12.2022  15:22",
+      "id": 3
+    },
+    {
+      "userId": 1,
+      "title": "React hooks",
+      "description": "useState, useEffect, useRef",
+      "data": "3.12.2022  15:22",
+      "id": 4
+    },
+    {
+      "userId": 7,
+      "title": "useCallBack",
+      "description": "Magna conubia consectetuer imperdiet vitae elit nullam phasellus tortor at interdum pulvinar duis dictum aenean nostra condimentum urna nam habitant turpis adipiscing letius tincidunt hac leo aptent habitasse a torquent non metus id eros augue fringilla aliquam fermentum sagittis congue dolor tellus himenaeos proin vel hendrerit purus accumsan ipsum potenti",
+      "data": "29.12.2022  0:22",
+      "id": 5
+    },
+    {
+      "userId": 7,
+      "title": "useCallBack",
+      "description": "Magna conubia consectetuer imperdiet vitae elit nullam phasellus tortor at interdum pulvinar duis dictum aenean nostra condimentum urna nam habitant turpis adipiscing letius tincidunt hac leo aptent habitasse a torquent non metus id eros augue fringilla aliquam fermentum sagittis congue dolor tellus himenaeos proin vel hendrerit purus accumsan ipsum potenti",
+      "data": "29.12.2022  0:22",
+      "id": 6
+    },
+    {
+      "userId": 7,
+      "title": "useCallBack",
+      "description": "Magna conubia consectetuer imperdiet vitae elit nullam phasellus tortor at interdum pulvinar duis dictum aenean nostra condimentum urna nam habitant turpis adipiscing letius tincidunt hac leo aptent habitasse a torquent non metus id eros augue fringilla aliquam fermentum sagittis congue dolor tellus himenaeos proin vel hendrerit purus accumsan ipsum potenti",
+      "data": "29.12.2022  0:22",
+      "id": 7
+    },
+    {
+      "userId": 7,
+      "title": "useCallBack",
+      "description": "Magna conubia consectetuer imperdiet vitae elit nullam phasellus tortor at interdum pulvinar duis dictum aenean nostra condimentum urna nam habitant turpis adipiscing letius tincidunt hac leo aptent habitasse a torquent non metus id eros augue fringilla aliquam fermentum sagittis congue dolor tellus himenaeos proin vel hendrerit purus accumsan ipsum potenti",
+      "data": "29.12.2022  0:22",
+      "id": 8
     }
   ]
 }

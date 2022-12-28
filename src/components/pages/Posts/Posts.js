@@ -47,7 +47,7 @@ export const Posts = () => {
 				{posts.length ? (
 					<ul className='list-unstyled'>
 						{posts.map((el) => (
-							<li className='w-75 p-4 rounded mt-4 border shadow'>
+							<li key={el.id} className='w-75 p-4 rounded mt-4 border shadow'>
 								<h4 className='h4'>Title: {el.title}</h4>
 								<p className='text-secondary'>Description: {el.description}</p>
 								<span className='text'>Time: {el.data}</span>
